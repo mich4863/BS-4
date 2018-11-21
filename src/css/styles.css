@@ -6314,3 +6314,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   background: #ededed; }
+
+.jumbotron {
+  background-color: #ffffff !important;
+  border-top: 3px solid #dbdbdb; }
